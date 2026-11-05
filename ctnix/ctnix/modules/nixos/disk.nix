@@ -2,7 +2,7 @@
   disko.devices = {
     disk.main = {
       type = "disk";
-      device = "/dev/disk/by-id/HIER-DEINE-SSD-ID";
+      device = "/dev/nvme0n1";
       content = {
         type = "gpt";
         partitions = {
