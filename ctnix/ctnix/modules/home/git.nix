@@ -5,7 +5,7 @@
       enable = true;
       settings.user = {
         name = "CT";
-        email = "DEINE-EMAIL@example.com";
+        email = "theis.charline@mail.de";
       };
     };
 
